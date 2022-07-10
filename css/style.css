@@ -339,6 +339,13 @@ body {
 
 #navigation li a {
   color: #fff;
+  font-size: 15px;
+}
+
+#navigation img {
+  background-size: 100%;
+  background-color: #555;
+  border-radius: 20%;
 }
 
 .navbar-brand,
